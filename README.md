@@ -1,3 +1,3 @@
 Century Tech Solutions
 
-[Open Main Page](MainPage.md)
+[Open Main Page](docs/MainPage.md)
